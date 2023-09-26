@@ -1,6 +1,12 @@
 # La-cayabyab.github.io
 
-# Data Analytics Tech Skill & Tool Stack:
+Hello, my name is L.A. I am a passionate Data Scientist excited about the entire data science lifecycle -- from data model designing, partnering with stakeholders in building KPIs, to deploying and maintaining machine learning models.
+
+My Data Science career started as a Business Analyst in fast-paced startup environments which enabled me to develop strong cross-functional communication, requirement elicitation, project management, and foundational data analytics skills.
+
+I currently work as a Data Scientist in Brex supporting various areas: Customer Experience, Product Operations, Cash and Banking, Credit, Billing, and Collections/Servicing
+
+# Personal Data Tech Stack:
 
 Data Analysis Languages:
   * Python (Pandas, NumPy)
@@ -11,19 +17,18 @@ Data Visualization
   * Looker
   * Matplotlib, Seaborn
 
-IDE / Notebook
+IDE/Notebook
   * VSCode
   * Jupyter, Hex
 
-Database/ DWH
+Database/DWH
   * Snowflake
   * Bigquery
   * Postgresql
 
-Data/Analytics Engineering:
-  * Data Engineering
-    * Fractal/DBT
-    * Airflow
-    * LookML
-    * Fivetran
+Data Analytics Engineering:
+ * Fractal/DBT
+ * Airflow
+ * LookML
+ * Fivetran
 
