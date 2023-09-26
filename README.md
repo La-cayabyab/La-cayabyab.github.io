@@ -1,6 +1,6 @@
 # La-cayabyab.github.io
 
-Hello, my name is L.A. I am a passionate Data Scientist excited about the entire data science lifecycle -- from data model designing, partnering with stakeholders in building KPIs, to deploying and maintaining machine learning models.
+Hello, my name is L.A. I am a passionate Data Scientist excited about the entire data science lifecycle -- from data model design, partnership with stakeholders in building KPIs, to deployment and maintenance of machine learning models.
 
 My Data Science career started as a Business Analyst in fast-paced startup environments which enabled me to develop strong cross-functional communication, requirement elicitation, project management, and foundational data analytics skills.
 
