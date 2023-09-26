@@ -2,11 +2,11 @@
 
 # Data Analytics Tech Skill & Tool Stack:
 
-* Data Analysis Languages:
+Data Analysis Languages:
   * Python (Pandas, NumPy)
   * SQL
  
-* Data Visualization
+Data Visualization
   * Tableau
   * Looker
   * Matplotlib, Seaborn
